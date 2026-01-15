@@ -1,7 +1,7 @@
 <?php
 
   // For database credentials and useful functions
-  require_once("db.php");
+  require_once("api/db.php");
   
 ?>
 
